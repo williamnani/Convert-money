@@ -114,9 +114,8 @@ section{
   body {
     font-size: 14px;
     margin-top: -40px;
+   
   }
-
- 
 
   main {
     width: 80%;
@@ -135,10 +134,6 @@ section{
     width: 100%; /* Make input fields and buttons full width on smaller screens */
   }
 
-section{
-
-}  
-
   .currency-box {
     display: flex;
     flex-direction: column;
@@ -146,8 +141,6 @@ section{
     text-align: center;
     margin-bottom: 20px;
     height: 70px;
-   
-    
   }
 
   .arrow {
