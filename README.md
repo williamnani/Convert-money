@@ -1,10 +1,10 @@
-# Convert Money
+<h1> Convert Money </h1>
 
-![image](./assets/1704831510341-removebg-preview.png)
+<img alt="HTML5" src= "./assets/work.png">
 
 Convert Money é a solução perfeita para suas necessidades de conversão de moeda, oferecendo uma experiência fácil e eficiente. Com a rapidez de um toque, você pode converter valores monetários entre diferentes moedas com precisão e atualizações em tempo real das taxas de câmbio.
 
-## Tech-Stack-
+<h2> Tech Stack </h2>
 
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,7 +12,7 @@ Convert Money é a solução perfeita para suas necessidades de conversão de mo
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-## Descrição-
+<h2> Descrição </h2>
 
 - Conversão Instantânea:
 
