@@ -27,5 +27,3 @@ Suporte a Diversas Moedas:
 -Interface Intuitiva e Amigável:
 O design intuitivo do aplicativo torna a navegação fácil para usuários de todos os níveis. A interface amigável proporciona uma experiência agradável durante a utilização.
 
-
-Você pode visualizar o layout do projeto através [DESSE LINK]( https://williamnani.github.io/Convert-money/).
